@@ -1,0 +1,7 @@
+In this section, we consider non-linear optimization. Our objective function and or contraint(s) may take non-linear form in this type of optimization. 
+
+It is a generalization of the linear programming not restricting the form of contraints or objective function. 
+
+The problem I consider here is a financial modeling which they managers must determine how many sales representatives they will assign to seven product lines.
+
+The solution of this problem I learned from Prof. Long Gao of UC Riverside. 
